@@ -27,4 +27,4 @@ These programs demonstrate problem-solving skills and cover core Java concepts l
 ## 📂 How to Run the Programs
 1. Clone this repository:
    ```bash
-   git clone https://github.com/bveeru370/codsoft-java-programs.git
+   git clone https://github.com/bveeru370/codesoft-internship-javaprograms.git
